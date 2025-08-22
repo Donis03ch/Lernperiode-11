@@ -18,8 +18,8 @@ Heute habe ich...
 
 ## Arbeitspakete für 22.08.2025
 
-- [ ] Create multiple mockup templates for suggestions
-- [ ] Codedex
+- [x] Create multiple mockup templates for suggestions
+- [x] Codedex
 - [ ] ...
 
 Heute habe ich...
