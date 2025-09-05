@@ -22,7 +22,7 @@ Heute habe ich...
 - [x] Codedex
 - [ ] ...
 
-Heute habe ich einige Mockup erstellt um daraus einen Schluss für ein Projekt zu ziehen. Am Schluss habe ich im Codedex noch gearbeitet, um das React nochmals aufzugreifen.
+Heute habe ich einige Mockup erstellt, um daraus einen Schluss für ein Projekt zu ziehen. Am Schluss habe ich im Codedex noch gearbeitet, um das React nochmals aufzugreifen.
 
 ## Arbeitspakete für 29.08.2025
 
