@@ -26,16 +26,16 @@ Heute habe ich...
 
 ## Arbeitspakete für 29.08.2025
 
-- [x] Index.html
-- [x] Api from open source library
-- [ ] Download links
+- [x] Modal preview
+- [x] Api from open source
+- [x] Download links
 
-Heute habe ich...
+Heute habe ich an dem Storyplace angefangen mit React zu arbeiten. Storyplace ist ein space für das Ausborgen von Büchern. Dafür verwende ich die Api von openlibraby.
 
 ## Arbeitspakete für 05.09.2025
 
-- [x] 
-- [x] 
+- [ ] ...
+- [ ] ...
 - [ ] ...
 
 Heute habe ich...
